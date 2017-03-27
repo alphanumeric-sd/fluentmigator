@@ -1,6 +1,6 @@
 name 'fluentmigrator'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'John Kerry, Matt Grogan'
+maintainer_email 'john@kerryhouse.net'
 license 'all_rights'
 description 'Installs/Configures fluentmigrator'
 long_description 'Installs/Configures fluentmigrator'
